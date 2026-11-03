@@ -63,7 +63,7 @@ The graph joins sampled points; its resolution is controlled by `--points`.
 
 ## Read the program
 
-- `ask_degree()` reads a nonnegative integer.
+- `ask_degree()` reads a nonnegative integer. // this is changed
 - `ask_coefficients()` asks for each coefficient and checks the input.
 - `evaluate_polynomial()` calculates the function value using a loop.
 - `polynomial_text()` creates a readable formula.
